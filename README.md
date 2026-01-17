@@ -1,2 +1,3 @@
-# Infrastructure-Accessibility-Analysis
-Infrastructure accessibility analysis evaluates how public spaces support safe, inclusive use for people of all abilities. It reviews physical access, signage, safety, usability, and compliance, identifying barriers and guiding improvements for more equitable, universal design.
+# Student Mental Health and Academic Performance Analysis
+
+This project analyzes the relationship between students’ mental health and their academic performance. It examines factors such as stress, anxiety, and well-being to understand how they affect learning outcomes. The goal is to gain insights that can help improve student support and academic success.
